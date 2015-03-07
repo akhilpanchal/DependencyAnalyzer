@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeAnalysis>
+  <Information about="typerelationships">
+    <type type1="class" name1="Analyzer">
+      <type type2="class" name2="FileMgr" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="CommandLineParser">
+      <type type2="struct" name2="CmdArgs" relationship="aggregates" />
+      <type type2="struct" name2="CmdArgs" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="FileMgr">
+      <type type2="class" name2="FileMgr" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="ccllsad">
+      <type type2="interface" name2="C" relationship="inherits" />
+      <type type2="interface" name2="Q" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DerivedType">
+      <type type2="class" name2="AggregatedType" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DemoRelationships">
+      <type type2="struct" name2="ComposedType" relationship="composes" />
+      <type type2="class" name2="AggregatedType" relationship="aggregates" />
+      <type type2="class" name2="DerivedType" relationship="aggregates" />
+      <type type2="class" name2="UsedType" relationship="uses" />
+      <type type2="class" name2="DemoRelationships" relationship="aggregates" />
+      <type type2="struct" name2="ComposedType" relationship="aggregates" />
+      <type type2="class" name2="UsedType" relationship="aggregates" />
+    </type>
+    <type type1="interface" name1="A">
+      <type type2="interface" name2="C" relationship="inherits" />
+    </type>
+    <type type1="class" name1="Executive">
+      <type type2="struct" name2="CmdArgs" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="CSemiExp">
+      <type type2="class" name2="CToker" relationship="aggregates" />
+      <type type2="class" name2="CSemiExp" relationship="aggregates" />
+      <type type2="class" name2="CSemiExp" relationship="aggregates" />
+      <type type2="class" name2="CSemiExp" relationship="aggregates" />
+    </type>
+  </Information>
+</CodeAnalysis>

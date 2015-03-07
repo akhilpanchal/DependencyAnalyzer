@@ -1,0 +1,6 @@
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Fawcett\WCF_CommPrototype\Client0\obj\Debug\Client1.csprojResolveAssemblyReference.cache
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Fawcett\WCF_CommPrototype\Client0\bin\Debug\Client1.pdb
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Fawcett\WCF_CommPrototype\Client0\obj\Debug\Client1.pdb
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Fawcett\WCF_CommPrototype\Client0\bin\Debug\Client1.exe.config
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Fawcett\WCF_CommPrototype\Client0\bin\Debug\Client1.exe
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Fawcett\WCF_CommPrototype\Client0\obj\Debug\Client1.exe

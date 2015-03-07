@@ -1,0 +1,35 @@
+F:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\bin\Debug\FileMgr.pdb
+F:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\obj\Debug\FileMgr.pdb
+F:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\bin\Debug\FileMgr.dll.config
+F:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\bin\Debug\FileMgr.dll
+F:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\obj\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\bin\Debug\FileMgr.dll.config
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\bin\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\bin\Debug\FileMgr.pdb
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\obj\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\obj\Debug\FileMgr.pdb
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.1\FileMgr\bin\Debug\FileMgr.dll.config
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.1\FileMgr\bin\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.1\FileMgr\bin\Debug\FileMgr.pdb
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.1\FileMgr\obj\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.1\FileMgr\obj\Debug\FileMgr.pdb
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.1\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.4\FileMgr\bin\Debug\FileMgr.dll.config
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.4\FileMgr\bin\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.4\FileMgr\bin\Debug\FileMgr.pdb
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.4\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.4\FileMgr\obj\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\CSharp\VS\VSHelp version1.4\FileMgr\obj\Debug\FileMgr.pdb
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.4\FileMgr\bin\Debug\FileMgr.dll.config
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.4\FileMgr\bin\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.4\FileMgr\bin\Debug\FileMgr.pdb
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.4\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.4\FileMgr\obj\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.4\FileMgr\obj\Debug\FileMgr.pdb
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.6\VSHelp version1.4\FileMgr\bin\Debug\FileMgr.dll.config
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.6\VSHelp version1.4\FileMgr\bin\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.6\VSHelp version1.4\FileMgr\bin\Debug\FileMgr.pdb
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.6\VSHelp version1.4\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.6\VSHelp version1.4\FileMgr\obj\Debug\FileMgr.dll
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 2\VSHelp version1.6\VSHelp version1.4\FileMgr\obj\Debug\FileMgr.pdb

@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeAnalysis>
+  <Information about="types">
+    <typeentry type="struct" name="ComposedType" namespace="TypeRelationships" />
+    <typeentry type="class" name="DemoRelationships" namespace="TypeRelationships" />
+    <typeentry type="interface" name="A" namespace="TypeRelationships" />
+    <typeentry type="class" name="Analyzer" namespace="CodeAnalysis" />
+    <typeentry type="struct" name="CmdArgs" namespace="CodeAnalysis" />
+    <typeentry type="class" name="CommandLineParser" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Display" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Executive" namespace="CodeAnalysis" />
+    <typeentry type="class" name="FileMgr" namespace="CodeAnalysis" />
+    <typeentry type="interface" name="IAction" namespace="CodeAnalysis" />
+    <typeentry type="class" name="AAction" namespace="CodeAnalysis" />
+    <typeentry type="interface" name="IRule" namespace="CodeAnalysis" />
+    <typeentry type="class" name="ARule" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Parser" namespace="CodeAnalysis" />
+    <typeentry type="class" name="TestParser" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Elem" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Type" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Relationship" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Repository" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Push2" namespace="CodeAnalysis" />
+    <typeentry type="class" name="PushStack" namespace="CodeAnalysis" />
+    <typeentry type="class" name="PopStack" namespace="CodeAnalysis" />
+    <typeentry type="class" name="PrintFunction" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Print" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectNamespace" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectClass" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectDelegate" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectEnum" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectFunction" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectAnonymousScope" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectBracelessScope" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectLeavingScope" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectInheritence" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectAggregation" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectClassChange" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectUsing" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectComposition" namespace="CodeAnalysis" />
+    <typeentry type="class" name="BuildCodeAnalyzer" namespace="CodeAnalysis" />
+    <typeentry type="class" name="BuildCodeAnalyzer2" namespace="CodeAnalysis" />
+    <typeentry type="class" name="ScopeStack" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Test" namespace="CodeAnalysis" />
+    <typeentry type="struct" name="Elem" namespace="CodeAnalysis" />
+    <typeentry type="class" name="CSemiExp" namespace="CSsemi" />
+    <typeentry type="class" name="eligibleCheck" namespace="myEligibleCheck" />
+    <typeentry type="class" name="CToker" namespace="CStoker" />
+    <typeentry type="class" name="ScopeStack" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Test" namespace="CodeAnalysis" />
+    <typeentry type="struct" name="Elem" namespace="CodeAnalysis" />
+    <typeentry type="class" name="CSemiExp" namespace="CSsemi" />
+    <typeentry type="class" name="CToker" namespace="CStoker" />
+    <typeentry type="class" name="eligibleCheck" namespace="myEligibleCheck" />
+    <typeentry type="class" name="CToker" namespace="CStoker" />
+    <typeentry type="enum" name="d" namespace="TypeRelationships" />
+    <typeentry type="interface" name="C" namespace="TypeRelationships" />
+    <typeentry type="interface" name="Q" namespace="TypeRelationships" />
+    <typeentry type="class" name="ccllsad" namespace="TypeRelationships" />
+    <typeentry type="class" name="AggregatedType" namespace="TypeRelationships" />
+    <typeentry type="delegate" name="invoker" namespace="TypeRelationships" />
+    <typeentry type="class" name="DerivedType" namespace="TypeRelationships" />
+    <typeentry type="struct" name="ComposedType" namespace="TypeRelationships" />
+    <typeentry type="class" name="UsedType" namespace="TypeRelationships" />
+    <typeentry type="class" name="DemoRelationships" namespace="TypeRelationships" />
+    <typeentry type="interface" name="A" namespace="TypeRelationships" />
+    <typeentry type="class" name="Elem" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Type" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Relationship" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Repository" namespace="CodeAnalysis" />
+    <typeentry type="class" name="PushStack" namespace="CodeAnalysis" />
+    <typeentry type="class" name="PopStack" namespace="CodeAnalysis" />
+    <typeentry type="class" name="PrintFunction" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Print" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectNamespace" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectClass" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectDelegate" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectEnum" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectFunction" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectAnonymousScope" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectBracelessScope" namespace="CodeAnalysis" />
+    <typeentry type="class" name="DetectLeavingScope" namespace="CodeAnalysis" />
+    <typeentry type="class" name="BuildCodeAnalyzerPass1" namespace="CodeAnalysis" />
+    <typeentry type="class" name="Xml" namespace="CodeAnalysis" />
+  </Information>
+  <Information about="functions">
+    <function name="say" size="6" complexity="1" />
+    <function name="DemoRelationships" size="5" complexity="1" />
+    <function name="say" size="4" complexity="1" />
+    <function name="Main" size="15" complexity="1" />
+    <function name="Project" size="1" complexity="1" />
+    <function name="getFiles" size="7" complexity="2" />
+    <function name="pass1" size="41" complexity="9" />
+    <function name="pass2" size="31" complexity="8" />
+    <function name="doAnalysis" size="7" complexity="1" />
+    <function name="Main" size="27" complexity="1" />
+    <function name="parseCommandLine" size="22" complexity="6" />
+    <function name="Main" size="14" complexity="2" />
+    <function name="displayOutput" size="43" complexity="9" />
+    <function name="Main" size="4" complexity="1" />
+    <function name="Main" size="6" complexity="1" />
+    <function name="findFiles" size="17" complexity="6" />
+    <function name="addPattern" size="3" complexity="1" />
+    <function name="getFiles" size="3" complexity="1" />
+    <function name="Main" size="11" complexity="2" />
+    <function name="Project" size="1" complexity="1" />
+    <function name="display" size="5" complexity="2" />
+    <function name="ARule" size="3" complexity="1" />
+    <function name="add" size="3" complexity="1" />
+    <function name="doActions" size="4" complexity="2" />
+    <function name="indexOfType" size="13" complexity="1" />
+    <function name="Parser" size="3" complexity="1" />
+    <function name="add" size="3" complexity="1" />
+    <function name="parse" size="11" complexity="3" />
+    <function name="ProcessCommandline" size="16" complexity="3" />
+    <function name="ShowCommandLine" size="9" complexity="2" />
+    <function name="Main" size="46" complexity="7" />
+    <function name="ToString" size="10" complexity="1" />
+    <function name="getcurr_type" size="3" complexity="1" />
+    <function name="setcurr_type" size="3" complexity="1" />
+    <function name="getcomplex" size="3" complexity="1" />
+    <function name="setcomplexity" size="3" complexity="1" />
+    <function name="increamentcomplex" size="3" complexity="1" />
+    <function name="Repository" size="3" complexity="1" />
+    <function name="getInstance" size="3" complexity="1" />
+    <function name="Push2" size="3" complexity="1" />
+    <function name="doAction" size="32" complexity="4" />
+    <function name="PushStack" size="3" complexity="1" />
+    <function name="doAction" size="41" complexity="8" />
+    <function name="PopStack" size="3" complexity="1" />
+    <function name="doAction" size="45" complexity="10" />
+    <function name="PrintFunction" size="3" complexity="1" />
+    <function name="display" size="7" complexity="2" />
+    <function name="doAction" size="3" complexity="1" />
+    <function name="Print" size="3" complexity="1" />
+    <function name="doAction" size="4" complexity="1" />
+    <function name="test" size="13" complexity="2" />
+    <function name="test" size="25" complexity="3" />
+    <function name="test" size="14" complexity="2" />
+    <function name="test" size="17" complexity="2" />
+    <function name="isSpecialToken" size="7" complexity="3" />
+    <function name="test" size="14" complexity="3" />
+    <function name="test" size="13" complexity="2" />
+    <function name="test" size="14" complexity="3" />
+    <function name="test" size="9" complexity="2" />
+    <function name="isDefinedType" size="9" complexity="2" />
+    <function name="test" size="21" complexity="3" />
+    <function name="test" size="17" complexity="3" />
+    <function name="test" size="17" complexity="2" />
+    <function name="test" size="25" complexity="5" />
+    <function name="test" size="21" complexity="4" />
+    <function name="BuildCodeAnalyzer" size="3" complexity="1" />
+    <function name="buildpass1" size="43" complexity="1" />
+    <function name="BuildCodeAnalyzer2" size="3" complexity="1" />
+    <function name="buildpass2" size="27" complexity="1" />
+    <function name="push" size="3" complexity="1" />
+    <function name="pop" size="9" complexity="2" />
+    <function name="clear" size="3" complexity="1" />
+    <function name="lastPopped" size="3" complexity="1" />
+    <function name="display" size="6" complexity="2" />
+    <function name="make" size="5" complexity="1" />
+    <function name="ToString" size="9" complexity="1" />
+    <function name="Main" size="33" complexity="1" />
+    <function name="CSemiExp" size="7" complexity="1" />
+    <function name="Equals" size="9" complexity="3" />
+    <function name="FindFirst" size="6" complexity="2" />
+    <function name="FindLast" size="6" complexity="2" />
+    <function name="Contains" size="3" complexity="1" />
+    <function name="GetHashCode" size="3" complexity="1" />
+    <function name="open" size="3" complexity="1" />
+    <function name="close" size="3" complexity="1" />
+    <function name="isTerminator" size="13" complexity="0" />
+    <function name="switch" size="10" complexity="2" />
+    <function name="get" size="7" complexity="2" />
+    <function name="IsPunc" size="3" complexity="1" />
+    <function name="IsOperatorPair" size="15" complexity="3" />
+    <function name="getSemi" size="26" complexity="7" />
+    <function name="insert" size="8" complexity="2" />
+    <function name="Add" size="4" complexity="1" />
+    <function name="Add" size="4" complexity="2" />
+    <function name="initialize" size="6" complexity="2" />
+    <function name="flush" size="3" complexity="1" />
+    <function name="isComment" size="7" complexity="2" />
+    <function name="display" size="4" complexity="1" />
+    <function name="displayStr" size="10" complexity="3" />
+    <function name="clone" size="8" complexity="2" />
+    <function name="remove" size="8" complexity="2" />
+    <function name="remove" size="8" complexity="2" />
+    <function name="Main" size="58" complexity="6" />
+    <function name="preCreate" size="32" complexity="7" />
+    <function name="travers" size="9" complexity="3" />
+    <function name="coverFiles" size="23" complexity="6" />
+    <function name="renameFiles" size="26" complexity="6" />
+    <function name="Main" size="23" complexity="7" />
+    <function name="CToker" size="5" complexity="1" />
+    <function name="openFile" size="12" complexity="3" />
+    <function name="openString" size="12" complexity="3" />
+    <function name="close" size="3" complexity="1" />
+    <function name="removeReturn" size="9" complexity="3" />
+    <function name="removeReturn" size="9" complexity="3" />
+    <function name="readLine" size="20" complexity="5" />
+    <function name="getLine" size="29" complexity="7" />
+    <function name="extract" size="35" complexity="9" />
+    <function name="mapToOldDoubleQuoteStyle" size="24" complexity="7" />
+    <function name="extractDQuote" size="30" complexity="6" />
+    <function name="extractSQuote" size="29" complexity="6" />
+    <function name="extractComment" size="47" complexity="9" />
+    <function name="eatCComment" size="30" complexity="6" />
+    <function name="IsGrammarPunctuation" size="7" complexity="3" />
+    <function name="eatAscii" size="14" complexity="3" />
+    <function name="eatPunctuationChar" size="5" complexity="1" />
+    <function name="fillBuffer" size="27" complexity="8" />
+    <function name="getTok" size="22" complexity="8" />
+    <function name="peekNextTok" size="7" complexity="2" />
+    <function name="pushBack" size="3" complexity="1" />
+    <function name="Main" size="83" complexity="14" />
+    <function name="push" size="3" complexity="1" />
+    <function name="pop" size="9" complexity="2" />
+    <function name="clear" size="3" complexity="1" />
+    <function name="lastPopped" size="3" complexity="1" />
+    <function name="display" size="6" complexity="2" />
+    <function name="make" size="5" complexity="1" />
+    <function name="ToString" size="9" complexity="1" />
+    <function name="Main" size="33" complexity="1" />
+    <function name="CSemiExp" size="7" complexity="1" />
+    <function name="Equals" size="9" complexity="3" />
+    <function name="FindFirst" size="6" complexity="2" />
+    <function name="FindLast" size="6" complexity="2" />
+    <function name="Contains" size="3" complexity="1" />
+    <function name="GetHashCode" size="3" complexity="1" />
+    <function name="open" size="3" complexity="1" />
+    <function name="close" size="3" complexity="1" />
+    <function name="isTerminator" size="13" complexity="0" />
+    <function name="switch" size="10" complexity="2" />
+    <function name="get" size="7" complexity="2" />
+    <function name="IsPunc" size="3" complexity="1" />
+    <function name="IsOperatorPair" size="15" complexity="3" />
+    <function name="getSemi" size="26" complexity="7" />
+    <function name="insert" size="8" complexity="2" />
+    <function name="Add" size="4" complexity="1" />
+    <function name="Add" size="4" complexity="2" />
+    <function name="initialize" size="6" complexity="2" />
+    <function name="flush" size="3" complexity="1" />
+    <function name="isComment" size="7" complexity="2" />
+    <function name="display" size="4" complexity="1" />
+    <function name="displayStr" size="10" complexity="3" />
+    <function name="clone" size="8" complexity="2" />
+    <function name="remove" size="8" complexity="2" />
+    <function name="remove" size="8" complexity="2" />
+    <function name="Main" size="58" complexity="6" />
+    <function name="CToker" size="5" complexity="1" />
+    <function name="openFile" size="12" complexity="3" />
+    <function name="openString" size="12" complexity="3" />
+    <function name="close" size="3" complexity="1" />
+    <function name="removeReturn" size="9" complexity="3" />
+    <function name="removeReturn" size="9" complexity="3" />
+    <function name="readLine" size="20" complexity="5" />
+    <function name="getLine" size="29" complexity="7" />
+    <function name="extract" size="35" complexity="9" />
+    <function name="mapToOldDoubleQuoteStyle" size="24" complexity="7" />
+    <function name="extractDQuote" size="30" complexity="6" />
+    <function name="extractSQuote" size="29" complexity="6" />
+    <function name="extractComment" size="47" complexity="9" />
+    <function name="eatCComment" size="30" complexity="6" />
+    <function name="IsGrammarPunctuation" size="7" complexity="3" />
+    <function name="eatAscii" size="14" complexity="3" />
+    <function name="eatPunctuationChar" size="5" complexity="1" />
+    <function name="fillBuffer" size="27" complexity="8" />
+    <function name="getTok" size="22" complexity="8" />
+    <function name="peekNextTok" size="7" complexity="2" />
+    <function name="pushBack" size="3" complexity="1" />
+    <function name="Main" size="83" complexity="14" />
+    <function name="preCreate" size="32" complexity="7" />
+    <function name="travers" size="9" complexity="3" />
+    <function name="coverFiles" size="23" complexity="6" />
+    <function name="renameFiles" size="26" complexity="6" />
+    <function name="Main" size="23" complexity="7" />
+    <function name="CToker" size="5" complexity="1" />
+    <function name="openFile" size="12" complexity="3" />
+    <function name="openString" size="12" complexity="3" />
+    <function name="close" size="3" complexity="1" />
+    <function name="removeReturn" size="9" complexity="3" />
+    <function name="removeReturn" size="9" complexity="3" />
+    <function name="readLine" size="20" complexity="5" />
+    <function name="getLine" size="29" complexity="7" />
+    <function name="extract" size="35" complexity="9" />
+    <function name="mapToOldDoubleQuoteStyle" size="24" complexity="7" />
+    <function name="extractDQuote" size="30" complexity="6" />
+    <function name="extractSQuote" size="29" complexity="6" />
+    <function name="extractComment" size="47" complexity="9" />
+    <function name="eatCComment" size="30" complexity="6" />
+    <function name="IsGrammarPunctuation" size="7" complexity="3" />
+    <function name="eatAscii" size="14" complexity="3" />
+    <function name="eatPunctuationChar" size="5" complexity="1" />
+    <function name="fillBuffer" size="27" complexity="8" />
+    <function name="getTok" size="22" complexity="8" />
+    <function name="peekNextTok" size="7" complexity="2" />
+    <function name="pushBack" size="3" complexity="1" />
+    <function name="Main" size="83" complexity="14" />
+    <function name="q" size="3" complexity="1" />
+    <function name="p" size="3" complexity="1" />
+    <function name="say1" size="1" complexity="1" />
+    <function name="say" size="8" complexity="3" />
+    <function name="DerivedType" size="4" complexity="1" />
+    <function name="say" size="4" complexity="1" />
+    <function name="say" size="6" complexity="1" />
+    <function name="UsedType" size="3" complexity="1" />
+    <function name="say" size="3" complexity="1" />
+    <function name="DemoRelationships" size="5" complexity="1" />
+    <function name="say" size="4" complexity="1" />
+    <function name="Main" size="15" complexity="1" />
+    <function name="ToString" size="10" complexity="1" />
+    <function name="getcomplex" size="3" complexity="1" />
+    <function name="setcomplexity" size="3" complexity="1" />
+    <function name="increamentcomplex" size="3" complexity="1" />
+    <function name="Repository" size="3" complexity="1" />
+    <function name="getInstance" size="3" complexity="1" />
+    <function name="PushStack" size="3" complexity="1" />
+    <function name="doAction" size="46" complexity="8" />
+    <function name="PopStack" size="3" complexity="1" />
+    <function name="doAction" size="46" complexity="10" />
+    <function name="PrintFunction" size="3" complexity="1" />
+    <function name="display" size="7" complexity="2" />
+    <function name="doAction" size="3" complexity="1" />
+    <function name="Print" size="3" complexity="1" />
+    <function name="doAction" size="4" complexity="1" />
+    <function name="test" size="13" complexity="2" />
+    <function name="test" size="18" complexity="2" />
+    <function name="test" size="14" complexity="2" />
+    <function name="test" size="14" complexity="2" />
+    <function name="isSpecialToken" size="7" complexity="3" />
+    <function name="test" size="14" complexity="3" />
+    <function name="test" size="13" complexity="2" />
+    <function name="test" size="14" complexity="3" />
+    <function name="test" size="9" complexity="2" />
+    <function name="BuildCodeAnalyzerPass1" size="3" complexity="1" />
+    <function name="build" size="54" complexity="1" />
+    <function name="createXml" size="49" complexity="5" />
+    <function name="Main" size="3" complexity="1" />
+  </Information>
+  <Information about="typerelationships">
+    <type type1="class" name1="DemoRelationships">
+      <type type2="struct" name2="ComposedType" relationship="composes" />
+      <type type2="class" name2="AggregatedType" relationship="aggregates" />
+      <type type2="class" name2="DerivedType" relationship="aggregates" />
+      <type type2="class" name2="UsedType" relationship="uses" />
+      <type type2="class" name2="DemoRelationships" relationship="aggregates" />
+      <type type2="struct" name2="ComposedType" relationship="aggregates" />
+      <type type2="class" name2="UsedType" relationship="aggregates" />
+    </type>
+    <type type1="interface" name1="A">
+      <type type2="interface" name2="C" relationship="inherits" />
+    </type>
+    <type type1="class" name1="Analyzer">
+      <type type2="class" name2="FileMgr" relationship="aggregates" />
+      <type type2="class" name2="BuildCodeAnalyzer" relationship="aggregates" />
+      <type type2="class" name2="BuildCodeAnalyzer2" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="CommandLineParser">
+      <type type2="struct" name2="CmdArgs" relationship="aggregates" />
+      <type type2="struct" name2="CmdArgs" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="Executive">
+      <type type2="struct" name2="CmdArgs" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="FileMgr">
+      <type type2="class" name2="FileMgr" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="AAction">
+      <type type2="interface" name2="IAction" relationship="inherits" />
+    </type>
+    <type type1="class" name1="ARule">
+      <type type2="interface" name2="IRule" relationship="inherits" />
+      <type type2="interface" name2="IAction" relationship="uses" />
+    </type>
+    <type type1="class" name1="Parser">
+      <type type2="interface" name2="IRule" relationship="uses" />
+    </type>
+    <type type1="class" name1="TestParser">
+      <type type2="class" name2="BuildCodeAnalyzer" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="Repository">
+      <type type2="class" name2="ScopeStack" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="Push2">
+      <type type2="class" name2="AAction" relationship="inherits" />
+      <type type2="class" name2="Repository" relationship="uses" />
+      <type type2="class" name2="Elem" relationship="aggregates" />
+      <type type2="class" name2="Relationship" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="PushStack">
+      <type type2="class" name2="AAction" relationship="inherits" />
+      <type type2="class" name2="Repository" relationship="uses" />
+      <type type2="class" name2="Elem" relationship="aggregates" />
+      <type type2="class" name2="Type" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="PopStack">
+      <type type2="class" name2="AAction" relationship="inherits" />
+      <type type2="class" name2="Repository" relationship="uses" />
+      <type type2="struct" name2="Elem" relationship="composes" />
+      <type type2="struct" name2="Elem" relationship="composes" />
+    </type>
+    <type type1="class" name1="PrintFunction">
+      <type type2="class" name2="AAction" relationship="inherits" />
+      <type type2="class" name2="Repository" relationship="uses" />
+    </type>
+    <type type1="class" name1="Print">
+      <type type2="class" name2="AAction" relationship="inherits" />
+      <type type2="class" name2="Repository" relationship="uses" />
+    </type>
+    <type type1="class" name1="DetectNamespace">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectClass">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectDelegate">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectEnum">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectFunction">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectAnonymousScope">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectBracelessScope">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectLeavingScope">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectInheritence">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectAggregation">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectClassChange">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectUsing">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectComposition">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="BuildCodeAnalyzer">
+      <type type2="class" name2="Repository" relationship="aggregates" />
+      <type type2="class" name2="Parser" relationship="aggregates" />
+      <type type2="class" name2="PushStack" relationship="aggregates" />
+      <type type2="class" name2="DetectNamespace" relationship="aggregates" />
+      <type type2="class" name2="DetectClass" relationship="aggregates" />
+      <type type2="class" name2="DetectDelegate" relationship="aggregates" />
+      <type type2="class" name2="DetectEnum" relationship="aggregates" />
+      <type type2="class" name2="DetectFunction" relationship="aggregates" />
+      <type type2="class" name2="DetectAnonymousScope" relationship="aggregates" />
+      <type type2="class" name2="DetectBracelessScope" relationship="aggregates" />
+      <type type2="class" name2="DetectLeavingScope" relationship="aggregates" />
+      <type type2="class" name2="PopStack" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="BuildCodeAnalyzer2">
+      <type type2="class" name2="Parser" relationship="aggregates" />
+      <type type2="class" name2="Push2" relationship="aggregates" />
+      <type type2="class" name2="DetectInheritence" relationship="aggregates" />
+      <type type2="class" name2="DetectClassChange" relationship="aggregates" />
+      <type type2="class" name2="DetectAggregation" relationship="aggregates" />
+      <type type2="class" name2="DetectUsing" relationship="aggregates" />
+      <type type2="class" name2="DetectComposition" relationship="aggregates" />
+    </type>
+    <type type1="struct" name1="Elem">
+      <type type2="class" name2="ScopeStack" relationship="aggregates" />
+      <type type2="struct" name2="Elem" relationship="composes" />
+    </type>
+    <type type1="class" name1="CSemiExp">
+      <type type2="class" name2="CToker" relationship="aggregates" />
+      <type type2="class" name2="CSemiExp" relationship="aggregates" />
+      <type type2="class" name2="CSemiExp" relationship="aggregates" />
+      <type type2="class" name2="CSemiExp" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="eligibleCheck">
+      <type type2="class" name2="eligibleCheck" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="CToker">
+      <type type2="class" name2="CToker" relationship="aggregates" />
+    </type>
+    <type type1="struct" name1="Elem">
+      <type type2="class" name2="ScopeStack" relationship="aggregates" />
+      <type type2="struct" name2="Elem" relationship="composes" />
+    </type>
+    <type type1="class" name1="CSemiExp">
+      <type type2="class" name2="CToker" relationship="aggregates" />
+      <type type2="class" name2="CSemiExp" relationship="aggregates" />
+      <type type2="class" name2="CSemiExp" relationship="aggregates" />
+      <type type2="class" name2="CSemiExp" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="CToker">
+      <type type2="class" name2="CToker" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="eligibleCheck">
+      <type type2="class" name2="eligibleCheck" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="CToker">
+      <type type2="class" name2="CToker" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="ccllsad">
+      <type type2="interface" name2="C" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DerivedType">
+      <type type2="class" name2="AggregatedType" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DemoRelationships">
+      <type type2="struct" name2="ComposedType" relationship="composes" />
+      <type type2="class" name2="AggregatedType" relationship="aggregates" />
+      <type type2="class" name2="DerivedType" relationship="aggregates" />
+      <type type2="class" name2="UsedType" relationship="uses" />
+      <type type2="class" name2="DemoRelationships" relationship="aggregates" />
+      <type type2="struct" name2="ComposedType" relationship="aggregates" />
+      <type type2="class" name2="UsedType" relationship="aggregates" />
+    </type>
+    <type type1="interface" name1="A">
+      <type type2="interface" name2="C" relationship="inherits" />
+    </type>
+    <type type1="class" name1="Repository">
+      <type type2="class" name2="ScopeStack" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="PushStack">
+      <type type2="class" name2="AAction" relationship="inherits" />
+      <type type2="class" name2="Repository" relationship="uses" />
+      <type type2="class" name2="Elem" relationship="aggregates" />
+      <type type2="class" name2="Type" relationship="aggregates" />
+    </type>
+    <type type1="class" name1="PopStack">
+      <type type2="class" name2="AAction" relationship="inherits" />
+      <type type2="class" name2="Repository" relationship="uses" />
+      <type type2="struct" name2="Elem" relationship="composes" />
+      <type type2="struct" name2="Elem" relationship="composes" />
+    </type>
+    <type type1="class" name1="PrintFunction">
+      <type type2="class" name2="AAction" relationship="inherits" />
+      <type type2="class" name2="Repository" relationship="uses" />
+    </type>
+    <type type1="class" name1="Print">
+      <type type2="class" name2="AAction" relationship="inherits" />
+      <type type2="class" name2="Repository" relationship="uses" />
+    </type>
+    <type type1="class" name1="DetectNamespace">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectClass">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectDelegate">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectEnum">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectFunction">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectAnonymousScope">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectBracelessScope">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="DetectLeavingScope">
+      <type type2="class" name2="ARule" relationship="inherits" />
+    </type>
+    <type type1="class" name1="BuildCodeAnalyzerPass1">
+      <type type2="class" name2="Repository" relationship="aggregates" />
+      <type type2="class" name2="Parser" relationship="aggregates" />
+      <type type2="class" name2="PushStack" relationship="aggregates" />
+      <type type2="class" name2="DetectNamespace" relationship="aggregates" />
+      <type type2="class" name2="DetectClass" relationship="aggregates" />
+      <type type2="class" name2="DetectDelegate" relationship="aggregates" />
+      <type type2="class" name2="DetectEnum" relationship="aggregates" />
+      <type type2="class" name2="DetectFunction" relationship="aggregates" />
+      <type type2="class" name2="DetectAnonymousScope" relationship="aggregates" />
+      <type type2="class" name2="DetectBracelessScope" relationship="aggregates" />
+      <type type2="class" name2="DetectLeavingScope" relationship="aggregates" />
+      <type type2="class" name2="PopStack" relationship="aggregates" />
+    </type>
+  </Information>
+</CodeAnalysis>

@@ -1,0 +1,6 @@
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 4\Dependency Analyzer\Server\bin\Debug\Server.exe.config
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 4\Dependency Analyzer\Server\bin\Debug\Server.exe
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 4\Dependency Analyzer\Server\bin\Debug\Server.pdb
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 4\Dependency Analyzer\Server\obj\Debug\Server.exe
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 4\Dependency Analyzer\Server\obj\Debug\Server.pdb
+E:\MS\Sem 1 Fall 2014\Software Modelling and Analysis\Projects\Project 4\Dependency Analyzer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Servers>
+  <server name="Server 1" ipadd="localhost" portno="4001" url="http://localhost:4001/ServerService">
+  </server>
+  <server name="Server 2" ipadd="localhost" portno="4002" url="http://localhost:4002/ServerService2">
+  </server>
+</Servers>
