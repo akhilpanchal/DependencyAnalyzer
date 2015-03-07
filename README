@@ -1,0 +1,3 @@
+Dependency Analyzer is a Client-Server Application that uses the Code Analysis Engine (https://github.com/akhilpanchal/CodeAnalysisEngine). 
+The Client connects to a server from a list of available servers and the selected Server sends a list of projects hosted on it that can be analyzed by the client.
+This application demonstrates a prototype with 2 clients and 2 servers.
